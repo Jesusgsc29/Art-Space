@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="art_1_artist_name">Vincent van Gogh</string>
+    <string name="art_1_artist_info">Dutch, 1853-1890</string>
+    <string name="art_1_title">Adeline Ravoux</string>
+    <string name="art_1_year">1890</string>
+    <string name="art_1_description">Adeline Ravoux by Vincent van Gogh</string>
+    <string name="art_1_artist_bio">Vincent Willem van Gogh was a Dutch post-impressionist painter who posthumously became one of the most famous and influential figures in the history of Western art. In a decade, he created about 2,100 artworks, including around 860 oil paintings, most of which date from the last two years of his life. They include landscapes, still lifes, portraits and self-portraits, and are characterised by bold colours and dramatic, impulsive and expressive brushwork that contributed to the foundations of modern art. He was not commercially successful, and his suicide at 37 came after years of mental illness, depression and poverty.\n
+
+\nBorn into an upper-middle-class family, Van Gogh drew as a child and was serious, quiet, and thoughtful. As a young man he worked as an art dealer, often travelling, but became depressed after he was transferred to London. He turned to religion and spent time as a Protestant missionary in southern Belgium. He drifted in ill health and solitude before taking up painting in 1881, having moved back home with his parents. His younger brother Theo supported him financially, and the two kept a long correspondence by letter. His early works, mostly still lifes and depictions of peasant labourers, contain few signs of the vivid colour that distinguished his later work. In 1886, he moved to Paris, where he met members of the avant-garde, including Émile Bernard and Paul Gauguin, who were reacting against the Impressionist sensibility. As his work developed he created a new approach to still lifes and local landscapes. His paintings grew brighter in colour as he developed a style that became fully realised during his stay in Arles in the south of France in 1888. During this period he broadened his subject matter to include series of olive trees, wheat fields and sunflowers.\n
+
+\nVan Gogh suffered from psychotic episodes and delusions and though he worried about his mental stability, he often neglected his physical health, did not eat properly and drank heavily. His friendship with Gauguin ended after a confrontation with a razor when, in a rage, he severed part of his own left ear. He spent time in psychiatric hospitals, including a period at Saint-Rémy. After he discharged himself and moved to the Auberge Ravoux in Auvers-sur-Oise near Paris, he came under the care of the homeopathic doctor Paul Gachet. His depression continued and on 27 July 1890, Van Gogh shot himself in the chest with a Lefaucheux revolver. He died from his injuries two days later.\n
+
+\nVan Gogh was unsuccessful during his lifetime, and he was considered a madman and a failure. He became famous after his suicide and exists in the public imagination as a misunderstood genius, the artist \"where discourses on madness and creativity converge\". His reputation began to grow in the early 20th century as elements of his painting style came to be incorporated by the Fauves and German Expressionists. He attained widespread critical, commercial and popular success over the ensuing decades, and he is remembered as an important but tragic painter, whose troubled personality typifies the romantic ideal of the tortured artist. Today, Van Gogh\'s works are among the world\'s most expensive paintings to have ever sold, and his legacy is honoured by a museum in his name, the Van Gogh Museum in Amsterdam, which holds the world\'s largest collection of his paintings and drawings.\n</string>
+
+
+    <string name="art_2_artist_name">Leonardo da Vinci</string>
+    <string name="art_2_artist_info">Italian, 1452-1519</string>
+    <string name="art_2_title">Ginevra de’ Benci</string>
+    <string name="art_2_year">1478</string>
+    <string name="art_2_description">Ginevra de’ Benci by Leonardo da Vinci</string>
+    <string name="art_2_artist_bio">Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the greatest painters of all time. The Mona Lisa is the most famous of his works and the most famous portrait ever made. The Last Supper is the most reproduced religious painting of all time and his Vitruvian Man drawing is also regarded as a cultural icon. He is also known for his notebooks, in which he made drawings and notes on science and invention; these involve a variety of subjects including anatomy, cartography, painting, and palaeontology. Leonardo\'s collective works compose a contribution to later generations of artists rivalled only by that of his contemporary Michelangelo.\n
+
+\nProperly named Leonardo di ser Piero da Vinci, Leonardo was born out of wedlock to a notary, Piero da Vinci, and a peasant woman, Caterina, in Vinci, in the region of Florence, Italy. Leonardo was educated in the studio of the renowned Italian painter Andrea del Verrocchio. Much of his earlier working life was spent in the service of Ludovico il Moro in Milan, and he later worked in Rome, Bologna and Venice. He spent his last three years in France, where he died in 1519.\n
+
+\nAlthough he had no formal academic training, many historians and scholars regard Leonardo as the prime exemplar of the \"Renaissance Man\" or \"Universal Genius\", an individual of \"unquenchable curiosity\" and \"feverishly inventive imagination.\" He is widely considered one of the most diversely talented individuals ever to have lived. According to art historian Helen Gardner, the scope and depth of his interests were without precedent in recorded history, and \"his mind and personality seem to us superhuman, while the man himself mysterious and remote.\" Scholars interpret his view of the world as being based in logic, though the empirical methods he used were unorthodox for his time.\n
+
+\nLeonardo is revered for his technological ingenuity. He conceptualized flying machines, a type of armoured fighting vehicle, concentrated solar power, an adding machine, and the double hull. Relatively few of his designs were constructed or even feasible during his lifetime, as the modern scientific approaches to metallurgy and engineering were only in their infancy during the Renaissance. Some of his smaller inventions, however, entered the world of manufacturing unheralded, such as an automated bobbin winder and a machine for testing the tensile strength of wire. He is also sometimes credited with the inventions of the parachute, helicopter, and tank. He made substantial discoveries in anatomy, civil engineering, geology, optics, and hydrodynamics, but he did not publish his findings and they had little to no direct influence on subsequent science.\n</string>
+
+
+    <string name="art_3_artist_name">James Tissot</string>
+    <string name="art_3_artist_info">French, 1836-1902</string>
+    <string name="art_3_title">Seaside</string>
+    <string name="art_3_year">1878</string>
+    <string name="art_3_description">Seaside by James Tissot</string>
+    <string name="art_3_artist_bio">Jacques Joseph Tissot, was a French painter and illustrator. He was a successful painter of Paris society before moving to London in 1871. He became famous as a genre painter of fashionably dressed women shown in various scenes of everyday life. He also painted scenes and characters from the Bible.\n
+
+\nJacques Tissot was born in the city of Nantes in France and spent his early childhood there. His father, Marcel Théodore Tissot, was a successful drapery merchant. His mother, Marie Durand, assisted her husband in the family business and designed hats. A devout Catholic, Tissot\'s mother instilled pious devotion in the future artist from a very young age. Tissot\'s youth spent in Nantes likely contributed to his frequent depiction of shipping vessels and boats in his later works.\n
+
+\nThe involvement of his parents in the fashion industry is believed to have been an influence on his painting style, as he depicted women\'s clothing in fine detail. By the time Tissot was 17, he knew he wanted to pursue painting as a career. His father opposed this, preferring his son to follow a business profession, but the young Tissot gained his mother\'s support for his chosen vocation. Around this time, he began using the given name of James. By 1854 he was commonly known as James Tissot; he may have adopted it because of his increasing interest in everything English.\n
+
+\nIn 1856 or 1857, Tissot travelled to Paris to pursue an education in art. While staying with a friend of his mother, painter Elie Delaunay, Tissot enrolled at the Ecole des Beaux-Arts to study in the studios of Hippolyte Flandrin and Louis Lamothe. Both were successful Lyonnaise painters who moved to Paris to study under Jean-Auguste-Dominique Ingres. Lamothe provided the majority of Tissot\'s studio education, and the young artist studied on his own by copying works at the Louvre, as did most other artists of the time in their early years. Around this time, Tissot also made the acquaintance of the American James McNeill Whistler, and French painters Edgar Degas (who had also been a student of Lamothe and a friend of Delaunay), and Édouard Manet.\n
+
+\nIn 1859, Tissot exhibited in the Paris Salon for the first time. He showed five paintings of scenes from the Middle Ages, many depicting scenes from Goethe\'s Faust. These works show the influence in his work of the Belgian painter Henri Leys (Jan August Hendrik Leys), whom Tissot had met in Antwerp earlier that same year. Other influences include the works of the German painters Peter von Cornelius and Moritz Retzsch. After Tissot had first exhibited at the Salon and before he had been awarded a medal, the French government paid 5,000 francs for his depiction of The Meeting of Faust and Marguerite in 1860, with the painting being exhibited at the Salon the following year, together with a portrait and other paintings.\n
+
+\nIn 1885, Tissot had a revival of his Catholic faith, which led him to spend the rest of his life making paintings about Biblical events. Many of his artist friends were skeptical about his conversion, as it conveniently coincided with the French Catholic revival, a reaction against the secular attitude of the French Third Republic. At a time when French artists were working in impressionism, pointillism, and heavy oil washes, Tissot was moving toward realism in his watercolors. To assist in his completion of biblical illustrations, Tissot traveled to the Middle East in 1886, 1889, and 1896 to make studies of the landscape and people. His series of 365 gouache (opaque watercolor) illustrations showing the life of Christ were shown to critical acclaim and enthusiastic audiences in Paris (1894–5), London (1896) and New York (1898–9), before being bought by the Brooklyn Museum in 1900. They were published in a French edition in 1896–7 and in an English one in 1897–8, bringing Tissot vast wealth and fame. During July 1894, Tissot was awarded the Légion d\'honneur, France\'s most prestigious medal. Tissot spent the last years of his life working on paintings of subjects from the Old Testament. Although he never completed the series, he exhibited 80 of these paintings in Paris in 1901 and engravings after them were published in 1904.\n
+
+\nTissot died suddenly in Doubs, France, on 8 August 1902, while living in the Château de Buillon, a former abbey which he had inherited from his father in 1888.</string>
+
+    <string name="art_4_artist_name">Edvard Munch</string>
+    <string name="art_4_artist_info">Norwegian, 1863-1944</string>
+    <string name="art_4_title">The Scream</string>
+    <string name="art_4_year">1895</string>
+    <string name="art_4_description">The Scream by Edvard Munch</string>
+    <string name="art_4_artist_bio">Edvard Munch was a Norwegian painter. His best known work, The Scream, has become one of the iconic images of world art.
+
+\nHis childhood was overshadowed by illness, bereavement and the dread of inheriting a mental condition that ran in the family. Studying at the Royal School of Art and Design in Kristiania (today\'s Oslo), Munch began to live a bohemian life under the influence of the nihilist Hans Jæger, who urged him to paint his own emotional and psychological state (\'soul painting\'). From this emerged his distinctive style.\n
+
+\nTravel brought new influences and outlets. In Paris, he learned much from Paul Gauguin, Vincent van Gogh and Henri de Toulouse-Lautrec, especially their use of colour. In Berlin, he met the Swedish dramatist August Strindberg, whom he painted, as he embarked on his major canon The Frieze of Life, depicting a series of deeply-felt themes such as love, anxiety, jealousy and betrayal, steeped in atmosphere.\n
+
+\nThe Scream was conceived in Kristiania. According to Munch, he was out walking at sunset, when he \'heard the enormous, infinite scream of nature\'. The painting\'s agonised face is widely identified with the angst of the modern person. Between 1893 and 1910, he made two painted versions and two in pastels, as well as a number of prints. One of the pastels would eventually command the fourth highest nominal price paid for a painting at auction.\n
+
+\nAs his fame and wealth grew, his emotional state remained insecure. He briefly considered marriage, but could not commit himself. A breakdown in 1908 forced him to give up heavy drinking, and he was cheered by his increasing acceptance by the people of Kristiania and exposure in the city\'s museums. His later years were spent working in peace and privacy. Although his works were banned in Nazi Germany, most of them survived World War II, securing him a legacy.\n</string>
+
+
+    <string name="art_5_artist_name">Caravaggio</string>
+    <string name="art_5_artist_info">Italian, 1571-1610</string>
+    <string name="art_5_title">The Musicians</string>
+    <string name="art_5_year">1597</string>
+    <string name="art_5_description">The Musicians by Caravaggio</string>
+    <string name="art_5_artist_bio">Michelangelo Merisi (Michele Angelo Merigi or Amerighi) da Caravaggio was an Italian painter active in Rome for most of his artistic life. During the final four years of his life he moved between Naples, Malta, and Sicily until his death. His paintings combine a realistic observation of the human state, both physical and emotional, with a dramatic use of lighting, which had a formative influence on Baroque painting.\n
+
+\nCaravaggio employed close physical observation with a dramatic use of chiaroscuro that came to be known as tenebrism. He made the technique a dominant stylistic element, darkening shadows and transfixing subjects in bright shafts of light. Caravaggio vividly expressed crucial moments and scenes, often featuring violent struggles, torture, and death. He worked rapidly, with live models, preferring to forgo drawings and work directly onto the canvas. His influence on the new Baroque style that emerged from Mannerism was profound. It can be seen directly or indirectly in the work of Peter Paul Rubens, Jusepe de Ribera, Gian Lorenzo Bernini, and Rembrandt, and artists in the following generation heavily under his influence were called the \"Caravaggisti\" (or \"Caravagesques\"), as well as tenebrists or tenebrosi (\"shadowists\").\n
+
+\nCaravaggio trained as a painter in Milan before moving in his twenties to Rome. He developed a considerable name as an artist, and as a violent, touchy and provocative man. A brawl led to a death sentence for murder and forced him to flee to Naples. There he again established himself as one of the most prominent Italian painters of his generation. He traveled in 1607 to Malta and on to Sicily, and pursued a papal pardon for his sentence. In 1609 he returned to Naples, where he was involved in a violent clash; his face was disfigured and rumours of his death circulated. Questions about his mental state arose from his erratic and bizarre behavior. He died in 1610 under uncertain circumstances while on his way from Naples to Rome. Reports stated that he died of a fever, but suggestions have been made that he was murdered or that he died of lead poisoning.\n
+
+\nCaravaggio\'s innovations inspired Baroque painting, but the Baroque incorporated the drama of his chiaroscuro without the psychological realism. The style evolved and fashions changed, and Caravaggio fell out of favor. In the 20th century interest in his work revived, and his importance to the development of Western art was reevaluated. The 20th-century art historian André Berne-Joffroy stated: \"What begins in the work of Caravaggio is, quite simply, modern painting.\"\n</string>
+
+
+    <string name="art_6_artist_name">John William Godward</string>
+    <string name="art_6_artist_info">English, 1861–1922</string>
+    <string name="art_6_title">The Quiet Pet</string>
+    <string name="art_6_year">1906</string>
+    <string name="art_6_description">The Quiet Pet by John William Godward</string>
+    <string name="art_6_artist_bio">John William Godward was an English painter from the end of the Neo-Classicist era. He was a protégé of Sir Lawrence Alma-Tadema, but his style of painting fell out of favor with the rise of modern art.\n
+
+\nGodward was born in 1861 and lived in Wilton Grove, Wimbledon. He was born to Sarah Eboral and John Godward (an investment clerk at the Law Life Assurance Society, London). He was the eldest of five children. He was named after his father John and grandfather William. He was christened at St. Mary\'s Church in Battersea on 17 October 1861. The overbearing attitude of his parents made him reclusive and shy later in adulthood.\n
+
+\nHe exhibited at the Royal Academy from 1887. When he moved to Italy with one of his models in 1912, his family broke off all contact with him and even cut his image from family pictures. Godward returned to England in 1921, died in 1922, and is buried in Brompton Cemetery, West London.\n
+
+\nOne of his best-known paintings is Dolce far Niente (1904), which was purchased for the collection of Andrew Lloyd Webber in 1995. As in the case of several other paintings, Godward painted more than one version; in this case, an earlier (and less well-known) 1897 version with a further 1906 version.\n
+
+\nHe committed suicide at the age of 61 and is said to have written in his suicide note that \"the world is not big enough for [both] myself and a Picasso\".\n
+
+\nHis estranged family, who had disapproved of his becoming an artist, were ashamed of his suicide and burned his papers. Only one photograph of Godward is known to survive.\n</string>
+
+
+    <string name="back">Back</string>
+</resources>
